@@ -1,0 +1,15 @@
+D:\C#\DGSW_POS\DGSW_POS\bin\Debug\DGSW_POS.exe.config
+D:\C#\DGSW_POS\DGSW_POS\bin\Debug\DGSW_POS.exe
+D:\C#\DGSW_POS\DGSW_POS\bin\Debug\DGSW_POS.pdb
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.csprojAssemblyReference.cache
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.Properties.Resources.resources
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.csproj.GenerateResource.cache
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.csproj.CoreCompileInputs.cache
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.exe
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.pdb
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.Loading.resources
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.Main.resources
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.View.Menulist.resources
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.FoodButton.resources
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.View.Checkorder.resources
+D:\C#\DGSW_POS\DGSW_POS\obj\Debug\DGSW_POS.View.Chart.resources
